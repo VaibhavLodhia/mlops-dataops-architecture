@@ -62,7 +62,7 @@ Tenant B   Tenant B    v1.0          Storage        Regression      Scores
 
 1. Navigate to the project directory:
 ```bash
-cd project2
+cd mlops-dataops-architecture
 ```
 
 2. Install dependencies:
@@ -110,7 +110,7 @@ The script will:
 ## 📁 Project Structure
 
 ```
-project2/
+mlops-dataops-architecture/
 ├── mlops_dataops_engine.py      # Main MLOps pipeline script
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
