@@ -1,0 +1,12 @@
+{
+  "Tenant_A": {
+    "encryption_key": "tenant_a_secret_key_2024_secure",
+    "model_version": "v1.0",
+    "feature_version": "v1.0"
+  },
+  "Tenant_B": {
+    "encryption_key": "tenant_b_secret_key_2024_secure",
+    "model_version": "v1.0",
+    "feature_version": "v1.0"
+  }
+}

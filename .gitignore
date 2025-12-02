@@ -1,0 +1,41 @@
+# Data files (generated at runtime)
+data/
+*.csv
+
+# Model files (generated at runtime)
+models/
+*.joblib
+
+# Feature store (generated at runtime)
+feature_store/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep config directory but ignore sensitive data if any
+# config/tenant_config.json is kept as it's needed for the demo
+
